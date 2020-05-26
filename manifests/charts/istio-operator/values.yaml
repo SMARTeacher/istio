@@ -3,3 +3,4 @@ tag: 1.6-dev
 operatorNamespace: istio-operator
 istioNamespace: istio-system
 waitForResourcesTimeout: 300s
+createCRD: false
